@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE UIPreferences PUBLIC "sailpoint.dtd" "sailpoint.dtd">
+<UIPreferences created="1678536879897" id="c0a8006486d0164a8186d0982f19036c" modified="1678541154541">
+  <Owner>
+    <Reference class="sailpoint.object.Identity" id="c0a8006486cb16158186cb164ff500e9" name="spadmin"/>
+  </Owner>
+  <Attributes>
+    <Map>
+      <entry key="gridStates">
+        <value>
+          <List>
+            <GridState name="identityListGridState" pageSize="100" state="o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Aname%255Eo%25253Aid%25253Ds%2525253Afirstname%255Eo%25253Aid%25253Ds%2525253Astatus%255Eo%25253Aid%25253Ds%2525253Acorrelated%255Eo%25253Aid%25253Ds%2525253Alastname%255Eo%25253Aid%25253Ds%2525253Amanager-displayName%255Eo%25253Aid%25253Ds%2525253AassignedRoleSummary%255Eo%25253Aid%25253Ds%2525253AbundleSummary%255Eo%25253Aid%25253Ds%2525253Ascorecard-compositeScore%255Eo%25253Aid%25253Ds%2525253AlastRefresh%255Eo%25253Aid%25253Ds%2525253Atype%255Eo%25253Aid%25253Ds%2525253AsoftwareVersion%255Eo%25253Aid%25253Ds%2525253Aadministrator-displayName%5Esort%3Do%253Aproperty%253Ds%25253Amanager-displayName%255Edirection%253Ds%25253AASC%255Eroot%253Ds%25253Adata"/>
+          </List>
+        </value>
+      </entry>
+    </Map>
+  </Attributes>
+</UIPreferences>
